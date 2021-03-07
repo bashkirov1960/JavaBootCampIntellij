@@ -4,6 +4,7 @@ package sef.module4.activity;
  * @author
  *
  */
+import sef.module4.activity.Calculator;
 public class CalculatorClient {
 
 	/**
@@ -28,10 +29,6 @@ public class CalculatorClient {
 		result = normalCalc.multiply(mul);
 		System.out.println("2) Multiplication result is " + result); 
 		
-
 	}
-
-
-	
 
 }
